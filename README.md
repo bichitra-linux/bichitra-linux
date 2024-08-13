@@ -53,7 +53,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td></tr></table>  
 
 <br/>  
-
+<div>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bichitra-linux" alt="bichitra-linux" /></a> </p>
+</div>
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
@@ -114,4 +117,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
